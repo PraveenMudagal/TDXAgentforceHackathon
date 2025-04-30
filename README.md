@@ -13,6 +13,8 @@ Praveen Mudugal
 URL: https://login.salesforce.com
 Username: epic.06cc5517e67f@orgfarm.com
 
+Presentation Deck : https://github.com/PraveenMudagal/TDXAgentforceHackathon/blob/main/Salesforce_AgentForce_Healthcare_UseCase.pptx
+
 **Use Case Title:**
 Leveraging Salesforce-AgentForce for Critical Illness Support in Healthcare
 
