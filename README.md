@@ -45,7 +45,7 @@ NGO/Donor --> Provides funding --> Get matched with genuine needs
 		○ Check eligibility through guided conversations and automated data collection.
 		○ Apply or get connected to available resources seamlessly through the agent interface.
 	2. For Hospital Administrators:
-		○ Maintain and update a centralized database of schemes, donors, NGOs, and their eligibility criteria.
+		○ Maintain and update a government schemes, donors, NGOs, and their eligibility criteria.
 		○ Onboard new support organizations and track interactions.
 		○ View real-time insights on scheme utilization and patient engagement.
 	3. For Donors/NGOs/Charities:
